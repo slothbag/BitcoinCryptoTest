@@ -3,4 +3,4 @@ BitcoinCryptoTest
 
 Sample application to test C# signMessage and verifyMessage functionality
 
-If you can make this program correctly sign and verify messages compatible with Bitcoin-QT I will send you 1 BTC.
+The first person make this program correctly sign and verify messages compatible with Bitcoin-QT will recieve a 1 BTC reward.
